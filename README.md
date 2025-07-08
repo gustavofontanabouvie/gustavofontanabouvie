@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**gustavofontanabouvie/gustavofontanabouvie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning C#, .Net
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: gustavofontanabouvie@gmail.com
+
+<div>
+  <a href = "https://github.com/gustavofontanabouvie">
+  <img height = 180em src = "https://github-readme-stats.vercel.app/api?username=gustavofontanabouvie&show_icons=true&theme=dracula"/> 
+  <img height = 180em src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofontanabouvie&layout=compact"/>
+
+</div>
+
