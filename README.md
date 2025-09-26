@@ -31,3 +31,8 @@ Olá! Sou o Gustavo, um Desenvolvedor Back-end com formação em Análise e Dese
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavofontanabouvie&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofontanabouvie&layout=compact&theme=github_dark)
+
+
+
+
+
