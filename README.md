@@ -1,55 +1,33 @@
 # 💻 Gustavo Fontana Bouvie
 
-`Desenvolvedor Back-end`
+`Desenvolvedor Back-end | .NET`
 
-Me chamo Gustavo, sou formado em Analise e desenvolvimento de sistemas e busco minha primeira oportunidade profissional como Desenvolvedor Back-end. Estou aprofundando meus conhecimentos no ecossistema .NET com projetos reais e desafiadores.
+Olá! Sou o Gustavo, um Desenvolvedor Back-end com formação em Análise e Desenvolvimento de Sistemas e cursando especialização em Arquitetura de Sistemas, meu foco é aplicar boas práticas como Clean Architecture e DDD para transformar ideias em software de alta qualidade.
 
+### 📬 Fale Comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavofontanabouvie/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavofontanabouvie@gmail.com)
 
-### 🤖 Linguagens e Tecnologias
+---
 
-<div>
-  <img 
-    align = "left"
-    alt = "C#"
-    title = "C#"
-    width = "30px"
-    style = "padding-rigth: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-    />
-    <img 
-    align = "left"
-    alt = "git"
-    title = "git"
-    width = "30px"
-    style = "padding-rigth: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  
-  <img 
-    align = "left"
-    alt = "postgres"
-    title = "postgres"
-    width = "30px"
-    style = "padding-rigth: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-    />
-</div>  
+### 🚀 Meus Principais Projetos
+* **[Comandas.Api](https://github.com/gustavofontanabouvie/Comandas.Api):** API RESTful para gerenciamento de um restaurante, construída com .NET 8, Clean Architecture e DDD.
 
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+### 🤖 Linguagens e Tecnologias que Utilizo
 
-  <img 
-    align="left"
-    style = "padding-right: 10px;"
-    src = "https://github-readme-stats.vercel.app/api?username=gustavofontanabouvie&show_icons=true&theme=dracula&include_all_commits=true&custom_title=Git-hub_Stats"
-  />
+<div style="display: inline_block"><br>
+  <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+  <img align="center" alt="DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+</div>
 
-  
-  <img 
-    align = "left"
-    style = "padding-right: 10px;"
-    src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofontanabouvie&layout=compact&theme=dracula&custom_title=Tecnologias"
-  />
+---
 
+### 📊 Minhas Estatísticas no GitHub
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavofontanabouvie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofontanabouvie&layout=compact&theme=dracula)
