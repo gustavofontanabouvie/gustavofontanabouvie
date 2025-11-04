@@ -11,6 +11,7 @@ Olá! Sou o Gustavo, um Desenvolvedor Back-end com formação em Análise e Dese
 ---
 
 ### 🚀 Meus Principais Projetos
+* **[FCG.API](https://github.com/gustavofontanabouvie/FCG.API/tree/master):** Projeto avaliativo da Pós-Graduação em arquitetura de sistemas .NET. API RESTful para gerenciamento de uma plataforma de jogos, projeto que servirá como base para as próximas etapas da Pós.
 * **[Comandas.Api](https://github.com/gustavofontanabouvie/Comandas.Api):** API RESTful para gerenciamento de um restaurante, construída com .NET 8, Clean Architecture e DDD.
 
 ---
